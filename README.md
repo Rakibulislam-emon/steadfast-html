@@ -69,7 +69,7 @@ To view the project locally, follow these steps:
 
 ## Live Demo
 
-[Live Demo Link](#)
+[Live Demo Link](https://steadfastcom.netlify.app/)
 
 
 ---
