@@ -52,6 +52,10 @@ a:hover {
   transition: .5s;
 }
 
+.nv{
+  z-index: 100;
+}
+
 .checkbtn {
   font-size: 22px;
   color: white;
